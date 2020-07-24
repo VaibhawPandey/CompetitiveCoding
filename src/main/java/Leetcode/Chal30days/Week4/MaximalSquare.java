@@ -3,7 +3,7 @@ package main.java.Leetcode.Chal30days.Week4;
 public class MaximalSquare {
     public static void main(String[] args) {
 
-        char matrix[][] = { {'0'}};
+        char matrix[][] = { {'1'}};
         System.out.println(maximalSquare(matrix));
     }
     public static int maximalSquare(char[][] matrix) {
